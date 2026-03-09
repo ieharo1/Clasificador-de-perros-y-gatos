@@ -149,14 +149,6 @@ from tensorflow.keras.applications import MobileNetV2
 base_model = MobileNetV2(weights='imagenet', include_top=False)
 # Agregar capas personalizadas arriba
 ```
-
----
-
-## 🤝 Contribuciones
-
-¿Mejoraste el modelo? ¿Agregaste nuevas características?
-¡Abre un Pull Request!
-
 ---
 
 ## 👨‍💻 Desarrollado por Isaac Esteban Haro Torres
